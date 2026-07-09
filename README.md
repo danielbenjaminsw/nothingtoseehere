@@ -18,7 +18,7 @@
   </tr>
 </table>
 
-This is a summary of findings from a case study on **communication dynamics** between transit or infrastructure agencies and vulnerable communities, examining the consultation process surrounding Metrolinx’s selection of Thorncliffe Park as the location for the Ontario Line’s **Maintenance and Storage Facility** (MSF). Data from disparate sources were synthesized and translated into an accessible and evidence-based account, identifying contextual factors and points of contention where improved communication and transparency could reduce tensions and build trust between the province and residents of Thorncliffe Park.<br>
+This is a summary of findings from a case study on **communication dynamics** between transit or infrastructure agencies and vulnerable communities, examining the consultation process surrounding Metrolinx’s selection of Thorncliffe Park as the location for the Ontario Line’s **Maintenance and Storage Facility** (MSF). Data from disparate sources were synthesized into an accessible and evidence-based account, identifying contextual factors and points of contention where improved communication and transparency could reduce tensions and build trust between the province and residents of Thorncliffe Park.<br>
 <br>
 [Click here](./Ontario_Line_MSF_Thorncliffe_Park.md) to view the project summary and visualizations, including:<br>
 **•Bar chart and choropleth map** comparing demographics data in neighbourhoods along the future route of the Ontario Line, highlighting the vulnerable population in Thorncliffe Park. <br>
@@ -30,7 +30,7 @@ Maps were created with ArcGIS Online and QGIS, data visualization in Excel using
 ## 2. Gentrification Risk Across Toronto - ArcGIS Instant App
 <img width="700" alt="Gentrification_screenshot" src="https://github.com/user-attachments/assets/e7384f58-269d-46de-842c-ce7e9b194484" /><br>
 This is a sample demonstration of an AI-based tool that can be used to explore, 
-analyze, and assess gentrification risk across Toronto’s twenty-five wards, created using ArcGIS Instant Apps and NotebookLM with data from Statistics Canada and the City of Toronto Open Data Portal.<br>
+analyze, and assess gentrification risk across Toronto’s twenty-five wards. Created using ArcGIS Instant Apps and NotebookLM with data from Statistics Canada and the City of Toronto Open Data Portal.<br>
 The tool can be accessed at https://arcg.is/1nrOKj3<br>
 View [Methodology](./Gentrification_Risk_v2.png)
 
