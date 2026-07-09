@@ -1,11 +1,3 @@
-# Welcome. 
-
-I'm a student etc etc etc. showcasing my skills in Visualization, Explanatory Analysis, and Presentation of Data. I'm especially interested in demographics research, and in my own city. I am deeply connected to /care deeply about Toronto.<br>
-
-Skills I bring from my career in the music industry include: Engaging an audience. Public Speaking and Building a narrative. Experience with administrative work including preparation of successful government grant funding applications and international work visas for groups. Tracking multiple financial streams and running a small business for 10+ years. Working with a team.<br>
-
-Software skills include Excel (Dynamic Arrays, Pivot Tables and Charts, Data Cleaning, Data Visualization), ArcGIS (Story Maps, Instant Apps, Experiences) QGIS, Power BI, Stata,<br>
-
 # Projects Portfolio
 
 ## 1. Does the Ontario Line MSF belong in Thorncliffe Park?
