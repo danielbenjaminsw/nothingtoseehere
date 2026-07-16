@@ -1,3 +1,7 @@
+# Welcome
+
+I’m currently a full-time Bachelor of Environmental Studies student in the Cities, Regions, Planning program at York University with a particular interest in data visualization and demographics research. These three examples of my data analysis and GIS work are adapted from academic case studies into independent projects, demonstrating my software skills and ability to communicate data visually.<br>
+
 # Projects Portfolio
 
 ## 1. Does the Ontario Line MSF belong in Thorncliffe Park?
