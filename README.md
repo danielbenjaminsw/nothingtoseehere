@@ -35,7 +35,7 @@ Maps were created with ArcGIS Online and QGIS, data visualization in Excel using
 <img width="700" alt="Gentrification_screenshot" src="https://github.com/user-attachments/assets/e7384f58-269d-46de-842c-ce7e9b194484" /><br>
 This is a sample demonstration of an AI-based tool that can be used to explore, 
 analyze, and assess gentrification risk across Toronto’s twenty-five wards. Created using ArcGIS Instant Apps and NotebookLM with data from Statistics Canada and the City of Toronto Open Data Portal.<br>
-The tool can be accessed at https://arcg.is/1nrOKj3<br>
+The tool can be accessed at https://arcg.is/4qfKv3<br>
 View [Methodology](./Gentrification_Risk_v2.png)
 
 ## 3. Measuring Neighbourhood Social Connectivity
