@@ -22,7 +22,7 @@ I’m currently a full-time Bachelor of Environmental Studies student in the Cit
   </tr>
 </table>
 
-This is a summary of findings from a case study on **communication dynamics** between transit or infrastructure agencies and vulnerable communities, examining the consultation process surrounding Metrolinx’s selection of Thorncliffe Park as the location for the Ontario Line’s **Maintenance and Storage Facility** (MSF). Data from disparate sources were synthesized into an accessible and evidence-based account, identifying contextual factors and points of contention where improved communication and transparency could reduce tensions and build trust between the province and residents of Thorncliffe Park.<br>
+This is a summary of findings from a case study on **communication dynamics** between transit or infrastructure agencies and vulnerable communities, examining the consultation process surrounding Metrolinx’s selection of Thorncliffe Park as the location for the Ontario Line’s **Maintenance and Storage Facility** (MSF). Data from disparate sources were synthesized into an accessible and data-supported account, identifying contextual factors and points of contention where improved communication and transparency could reduce tensions and build trust between the province and residents of Thorncliffe Park.<br>
 <br>
 [Click here](./Ontario_Line_MSF_Thorncliffe_Park.md) to view the project summary and visualizations, including:<br>
 **•Bar chart and choropleth map** comparing demographics data in neighbourhoods along the future route of the Ontario Line, highlighting the vulnerable population in Thorncliffe Park. <br>
