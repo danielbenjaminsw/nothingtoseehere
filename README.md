@@ -51,7 +51,7 @@ width="350" alt="Connectivity_scatterplot">
     </td>
   </tr>
 </table>
-This sample of my data analysis and GIS work is adapted from a study proposal measuring social connectivity in four Toronto neighbourhoods using a five-indicator composite index. It is also available as an ArcGIS Story Map at https://bit.ly/4fcal90<br>
+This sample of my data analysis and GIS work is adapted from a study proposal measuring social connectivity in four Toronto neighbourhoods using a five-indicator composite index. It is also available as an ArcGIS Story Map at https://arcg.is/XPH1L<br>
 
 View [Methodology](./Social_Connectivity_v2.png)
 
